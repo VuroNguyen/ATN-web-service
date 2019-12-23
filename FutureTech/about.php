@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!-- This website template was created by: Long Nguyen -->
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="css/styles.css">
+    <meta charset="utf-8">
+    <title>Future Tech Company</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+  </head>
+  <body>
+
+    <div id="container">
+
+    <!-- Use the header area for the website name or logo -->
+    <header class="logo">
+      <a href="index.php"> <img src="images/logo.png" alt="Future Tech Company logo"> </a>
+    </header>
+
+    <!-- Use the nav area to add hyperlinks to other pages within the website  -->
+    <nav>
+      <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="about.php">About Us</a></li>
+        <li><a href="service.php">Service</a></li>
+        <li><a href="contact.php">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div id="banner" class="desktop">
+      <img src="images/aboutbanner.jpg" alt="about banner image">
+    </div>
+
+    <!-- Use the main area to add the main content of the webpage -->
+    <main>
+
+      <section>
+        <h1>An Industry Leader</h1>
+        <p>Future Tech is a leading provider of cutting-edge technologies and services, offering scalable solutions for businesses of all sizes. Founded by a group of friends who started by scribbling their ideas on a piece of paper, today we offer smart, innovative services to dozens of clients worldwide.</p>
+
+        <h2>Our mission is to provide our clients high-valued technological solutions and services that will help them to fulfill their invidual and business needs. </h2>
+        <p>Through continuous improvement and innovation, our engineers are able to provide outstanding product packages and solutions following global standard development and security processes.</p><br>
+        <p>Leveraging on our integration capability with transcosmos group companies, we are able to provide seamless digital solutions to regional and global clients.</p>
+
+        <h2>Our vision is to become a leading premium development center, capable of delivering advanced products and services to our clients world-wide.</h2>
+        <p>We aim to develop the most advanced and competitive products, being always on the edge of technology and competing with global players on the software industry.</p>
+        <div id="aboutimg" class="desktop">
+          <img src="images/logo.png" alt="Future Tech image">
+        </div>
+        <div class="desktop">
+        <ul class="item">
+          <li>Headquaters in Ho Chi Minh city, Viet Nam</li>
+          <li>50+ years of experience</li>
+          <li>2017/3 Net sales: 12,897,990 thousands of VND</li>
+          <li>49 operation centers in Viet nam (as of December, 2015)</li>
+          <li>33 countries, 170 operation centers (as of  March, 2018)</li>
+          <li>"Ranked 2th in the World in Global Outsourcing 100" - IAOP 2014</li>
+        </ul>
+      </div>
+
+        <p >For more information about how to stay active, visit <a href="http://www.facebook.com/Future_Tech"></a>www.facebook.com/Future_Tech</p> <br>
+        <p>So why not join our fast growing client base? Get in touch today to<a href="contact.php"> learn more.</a></p>
+
+      </section>
+
+    </main>
+
+    <!-- Use the footer area to add webpage footer content -->
+    <footer>
+      <div id="copyright">
+      &copy; CopyRight 2019. All Rights Reserved. <br>
+      <a href="mailto:contact@gmail.com">Email: contact@gmail.com</a>
+    </div>
+
+      <div id="social">
+        <p>Connect with us:</p>
+        <p><a href="https://www.facebook.com/FutureTech"> <img src="images/fblogo.png" alt="Fb Logo"></p>
+        <p><a href="https://www.tweeter.com/FutureTech"> <img src="images/twitterlogo.png" alt="Tweeter Logo"</p>
+      </div>
+    </footer>
+
+    </div>
+
+  </body>
+</html>

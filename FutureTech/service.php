@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!-- This website template was created by: Long Nguyen -->
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="css/styles.css">
+    <meta charset="utf-8">
+    <title>Future Tech Company</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+  </head>
+  <body>
+
+    <div id="container">
+
+    <!-- Use the header area for the website name or logo -->
+    <header class="logo">
+      <a href="index.php"> <img src="images/logo.png" alt="Future Tech Company logo"> </a>
+    </header>
+
+    <!-- Use the nav area to add hyperlinks to other pages within the website  -->
+    <nav>
+      <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="about.php">About Us</a></li>
+        <li><a href="service.php">Service</a></li>
+        <li><a href="contact.php">Contact</a></li>
+      </ul>
+    </nav>
+
+    <!-- Nutrition Page Banner -->
+    <div id="banner" class="desktop">
+      <img src="images/banner1.jpg" alt="home banner image">
+    </div>
+
+    <!-- Use the main area to add the main content of the webpage -->
+    <main>
+
+      <article>
+        <h2>Smart Devices Solution</h2>
+        <img src="images/smartdevices.jpg" alt="Repair image" class="desktop">
+        <p>Our Mobile team has an extensive experience developing mobile applications (M-Commerce, Games and Enterprise Mobility Solutions), being able to provide best in class mobile services and solutions for iOS and Android devices.</p>
+        <p>We also work with desktop or smart TV. We can sure that we will give back to you a like new devices when you work with us.</p>
+        <p>Thanks to our years of experience with smart device technologies and following an effective and efficient methodology, we are able to improve client’s strategy offering high quality native and hybrid applications..</p>
+        <p>In-depth knowledge of Android SDK and iOS SDK, along with consistent and reliable development and testing best practices, allows our team to achieve the best User Interface and User Experience without neglecting high security standards.</p>
+        <aside> Our Tips: Bring your devices on Tuesday for discount. </aside>
+      </article>
+
+      <article>
+        <h2>Package Solution </h2>
+        <img src="images/support.jpg" alt="24/7 support" class="desktop">
+        <p>Following our strategy focus on innovation and high-added value products and solutions development, our team develops unique outstanding packages that can be utilized by customers to fulfil their business or invidual needs.</p>
+        <p>Our solution package development team is always on the edge of technology, following global standard development and security processes, developing the most advanced and competitive products.</p>
+        <aside> Did you know that there are have not any product return after selling from our company? </aside>
+      </article>
+
+      <article>
+        <h2>Website development </h2>
+        <div class="artimage">
+        <img src="images/webdev.jpg" alt="herb roasted chicken image" class="desktop">
+      </div>
+        <p>Our strong web development team follows web development best practices ensuring the best performance and client-side/server-side approach to optimize business requirements of our clients.</p>
+        <p>We build cost friendly frameworks like CMS while securing quality and the implementation of optimal lead designs that are responsible and focus on balancing usability and operational efficiency.</p>
+        <p>Not just that, we also have classes for everyone who love to work in website design. You can check it <a class="here" href="class.php">Here.</a></p>
+        <aside> Did you know if you learn a computer language 3 hours a day, you can finish it in 2 weeks?</aside>
+      </article>
+
+    </main>
+
+    <!-- Use the footer area to add webpage footer content -->
+    <footer>
+      <div id="copyright">
+      &copy; CopyRight 2019. All Rights Reserved. <br>
+      <a href="mailto:contact@gmail.com">Email: contact@gmail.com</a>
+    </div>
+
+      <div id="social">
+        <p>Connect with us:</p>
+        <p><a href="https://www.facebook.com/FutureTech"> <img src="images/fblogo.png" alt="Fb Logo"></p>
+        <p><a href="https://www.tweeter.com/FutureTech"> <img src="images/twitterlogo.png" alt="Tweeter Logo"</p>
+      </div>
+    </footer>
+
+    </div>
+
+  </body>
+</html>
